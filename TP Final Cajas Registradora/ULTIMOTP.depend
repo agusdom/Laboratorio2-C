@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1511385156 source:c:\users\win10\desktop\sss\arboles.c
+	"Estructuras.h"
+
+1511385215 c:\users\win10\desktop\sss\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511385156 source:c:\users\win10\desktop\sss\filas.c
+	"Estructuras.h"
+
+1511331982 source:c:\users\win10\desktop\sss\listasdobles.c
+	"Estructuras.h"
+
+1511385927 source:c:\users\win10\desktop\sss\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511309026 source:c:\users\win10\desktop\sss\matriz.c
+	"Estructuras.h"
+
+1511337489 source:c:\users\win10\desktop\sss\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1511232802 source:c:\users\win10\desktop\sss\personas.c
+	"Estructuras.h"
+
+1511309366 source:c:\users\win10\desktop\sss\usuarios.c
+	"Estructuras.h"
+
+1511386213 source:c:\users\win10\desktop\sss\cajas.c
+	"Estructuras.h"
+
+1511406108 source:f:\asdd3\arboles.c
+	"Estructuras.h"
+
+1511406108 f:\asdd3\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511406108 source:f:\asdd3\filas.c
+	"Estructuras.h"
+
+1511406108 source:f:\asdd3\listasdobles.c
+	"Estructuras.h"
+
+1511406108 source:f:\asdd3\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511406108 source:f:\asdd3\matriz.c
+	"Estructuras.h"
+
+1511406108 source:f:\asdd3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1511406108 source:f:\asdd3\personas.c
+	"Estructuras.h"
+
+1511406108 source:f:\asdd3\usuarios.c
+	"Estructuras.h"
+
+1511406108 source:c:\users\win10\desktop\entregafinaltp\arboles.c
+	"Estructuras.h"
+
+1511438248 c:\users\win10\desktop\entregafinaltp\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511437933 source:c:\users\win10\desktop\entregafinaltp\filas.c
+	"Estructuras.h"
+
+1511422547 source:c:\users\win10\desktop\entregafinaltp\listasdobles.c
+	"Estructuras.h"
+
+1511438607 source:c:\users\win10\desktop\entregafinaltp\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511406108 source:c:\users\win10\desktop\entregafinaltp\matriz.c
+	"Estructuras.h"
+
+1511406108 source:c:\users\win10\desktop\entregafinaltp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1511433341 source:c:\users\win10\desktop\entregafinaltp\personas.c
+	"Estructuras.h"
+
+1511436030 source:c:\users\win10\desktop\entregafinaltp\usuarios.c
+	"Estructuras.h"
+
+1511438652 source:c:\users\win10\desktop\entregafinaltp\cajas.c
+	"Estructuras.h"
+
+1511453574 source:f:\ultimo_tp\arboles.c
+	"Estructuras.h"
+
+1511453718 f:\ultimo_tp\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511453724 source:f:\ultimo_tp\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511453718 source:f:\ultimo_tp\cajas.c
+	"Estructuras.h"
+
+1511475964 source:c:\users\usuario\desktop\ultimo_tp\ultimo_tp\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511453718 c:\users\usuario\desktop\ultimo_tp\ultimo_tp\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511477933 source:c:\users\usuario\desktop\ultimo_tp\ultimo_tp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1511474363 source:c:\users\usuario\desktop\ultimo_tp\ultimo_tp\arboles.c
+	"Estructuras.h"
+
+1511478050 source:c:\users\usuario\desktop\ultimo_tp\ultimo_tp\cajas.c
+	"Estructuras.h"
+
+1511458988 source:c:\users\usuario\desktop\ultimo_tp\ultimo_tp\filas.c
+	"Estructuras.h"
+
+1511458988 source:c:\users\usuario\desktop\ultimo_tp\ultimo_tp\listasdobles.c
+	"Estructuras.h"
+
+1511458988 source:c:\users\usuario\desktop\ultimo_tp\ultimo_tp\matriz.c
+	"Estructuras.h"
+
+1511475964 source:c:\users\usuario\desktop\ultimo_tp\ultimo_tp\personas.c
+	"Estructuras.h"
+
+1511475964 source:c:\users\usuario\desktop\ultimo_tp\ultimo_tp\usuarios.c
+	"Estructuras.h"
+

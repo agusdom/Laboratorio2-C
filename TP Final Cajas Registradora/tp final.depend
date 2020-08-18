@@ -1,0 +1,671 @@
+# depslib dependency file v1.0
+1508049360 source:c:\users\agust\desktop\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+	"funciones.h"
+
+1504958766 c:\users\agust\desktop\tp final\tp final\matriz.c
+	"matriz.h"
+
+1504958794 c:\users\agust\desktop\tp final\tp final\matriz.h
+
+1504958766 source:c:\users\agust\desktop\tp final\tp final\matriz.c
+	"matriz.h"
+
+1508049143 c:\users\agust\desktop\tp final\tp final\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1508049143 source:c:\users\agust\desktop\tp final\tp final\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1504958766 source:c:\users\agust\desktop\programacion 2\tp final\tp final\matriz.c
+	"matriz.h"
+
+1504958794 c:\users\agust\desktop\programacion 2\tp final\tp final\matriz.h
+
+1508869397 source:c:\users\agust\desktop\programacion 2\tp final\tp final\personas.c
+	"personas.h"
+
+1508377971 c:\users\agust\desktop\programacion 2\tp final\tp final\personas.h
+	<stdio.h>
+	<stdlib.h>
+
+1508866355 source:c:\users\agust\desktop\programacion 2\tp final\tp final\usuarios.c
+	"usuarios.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1508866340 c:\users\agust\desktop\programacion 2\tp final\tp final\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+
+1508871749 source:c:\users\agust\desktop\programacion 2\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+	"usuarios.h"
+	"personas.h"
+
+1509007131 source:c:\users\win10\desktop\tpfinal\arboles.c
+	"Estructuras.h"
+
+1509007112 c:\users\win10\desktop\tpfinal\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509007525 source:c:\users\win10\desktop\tpfinal\filas.c
+	"Estructuras.h"
+
+1509007373 source:c:\users\win10\desktop\tpfinal\listasdobles.c
+	"Estructuras.h"
+
+1509007406 source:c:\users\win10\desktop\tpfinal\main.c
+	"Estructuras.h"
+
+1509007107 source:c:\users\win10\desktop\tpfinal\matriz.c
+	"Estructuras.h"
+
+1509007107 source:c:\users\win10\desktop\tpfinal\personas.c
+	"Estructuras.h"
+
+1509007534 source:c:\users\win10\desktop\tpfinal\usuarios.c
+	"Estructuras.h"
+
+1509055614 source:c:\users\usuario\downloads\arboles.c
+	"Estructuras.h"
+
+1509056413 c:\users\usuario\downloads\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509055614 source:c:\users\usuario\downloads\listasdobles.c
+	"Estructuras.h"
+
+1509055614 source:c:\users\usuario\downloads\main.c
+	"Estructuras.h"
+
+1509055614 source:c:\users\usuario\downloads\matriz.c
+	"Estructuras.h"
+
+1509055614 source:c:\users\usuario\downloads\personas.c
+	"Estructuras.h"
+
+1509055614 source:c:\users\usuario\downloads\usuarios.c
+	"Estructuras.h"
+
+1509580460 source:c:\users\usuario\desktop\tp librerias compl\arboles.c
+	"Estructuras.h"
+
+1509574555 c:\users\usuario\desktop\tp librerias compl\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509574555 source:c:\users\usuario\desktop\tp librerias compl\filas.c
+	"Estructuras.h"
+
+1509574555 source:c:\users\usuario\desktop\tp librerias compl\listasdobles.c
+	"Estructuras.h"
+
+1509584187 source:c:\users\usuario\desktop\tp librerias compl\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509574555 source:c:\users\usuario\desktop\tp librerias compl\matriz.c
+	"Estructuras.h"
+
+1509584193 source:c:\users\usuario\desktop\tp librerias compl\personas.c
+	"Estructuras.h"
+
+1509582315 source:c:\users\usuario\desktop\tp librerias compl\usuarios.c
+	"Estructuras.h"
+
+1509065722 source:c:\users\agust\desktop\tp librerias compl\arboles.c
+	"Estructuras.h"
+
+1509561231 c:\users\agust\desktop\tp librerias compl\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509065723 source:c:\users\agust\desktop\tp librerias compl\filas.c
+	"Estructuras.h"
+
+1509065723 source:c:\users\agust\desktop\tp librerias compl\listasdobles.c
+	"Estructuras.h"
+
+1509561911 source:c:\users\agust\desktop\tp librerias compl\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509065723 source:c:\users\agust\desktop\tp librerias compl\matriz.c
+	"Estructuras.h"
+
+1509415668 source:c:\users\agust\desktop\tp librerias compl\personas.c
+	"Estructuras.h"
+
+1509411432 source:c:\users\agust\desktop\tp librerias compl\usuarios.c
+	"Estructuras.h"
+
+1509584361 source:c:\users\usuario\desktop\tp librerias compl, problema con personas\arboles.c
+	"Estructuras.h"
+
+1509584362 c:\users\usuario\desktop\tp librerias compl, problema con personas\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509584362 source:c:\users\usuario\desktop\tp librerias compl, problema con personas\filas.c
+	"Estructuras.h"
+
+1509584362 source:c:\users\usuario\desktop\tp librerias compl, problema con personas\listasdobles.c
+	"Estructuras.h"
+
+1509584363 source:c:\users\usuario\desktop\tp librerias compl, problema con personas\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509584363 source:c:\users\usuario\desktop\tp librerias compl, problema con personas\matriz.c
+	"Estructuras.h"
+
+1509584365 source:c:\users\usuario\desktop\tp librerias compl, problema con personas\usuarios.c
+	"Estructuras.h"
+
+1510184079 source:c:\users\usuario\desktop\tp librerias compl, problema con personas arreglado\arboles.c
+	"Estructuras.h"
+
+1509664773 c:\users\usuario\desktop\tp librerias compl, problema con personas arreglado\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509664773 source:c:\users\usuario\desktop\tp librerias compl, problema con personas arreglado\listasdobles.c
+	"Estructuras.h"
+
+1510186919 source:c:\users\usuario\desktop\tp librerias compl, problema con personas arreglado\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1509664773 source:c:\users\usuario\desktop\tp librerias compl, problema con personas arreglado\matriz.c
+	"Estructuras.h"
+
+1510186875 source:c:\users\usuario\desktop\tp librerias compl, problema con personas arreglado\filas.c
+	"Estructuras.h"
+
+1509664774 source:c:\users\usuario\desktop\tp librerias compl, problema con personas arreglado\personas.c
+	"Estructuras.h"
+
+1510186058 source:c:\users\usuario\desktop\tp librerias compl, problema con personas arreglado\usuarios.c
+	"Estructuras.h"
+
+1510187002 source:c:\users\usuario\desktop\tp 8-11\filas.c
+	"Estructuras.h"
+
+1510187002 c:\users\usuario\desktop\tp 8-11\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510187002 source:c:\users\usuario\desktop\tp 8-11\listasdobles.c
+	"Estructuras.h"
+
+1510187002 source:c:\users\usuario\desktop\tp 8-11\matriz.c
+	"Estructuras.h"
+
+1510187003 source:c:\users\usuario\desktop\tp 8-11\personas.c
+	"Estructuras.h"
+
+1510262865 source:c:\users\usuario\desktop\tp 8-11\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510187004 source:c:\users\usuario\desktop\tp 8-11\usuarios.c
+	"Estructuras.h"
+
+1510262955 source:c:\users\usuario\desktop\tp 8-11\arboles.c
+	"Estructuras.h"
+
+1510262955 source:c:\users\usuario\desktop\tp 9-11\arboles.c
+	"Estructuras.h"
+
+1510266879 c:\users\usuario\desktop\tp 9-11\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510187002 source:c:\users\usuario\desktop\tp 9-11\filas.c
+	"Estructuras.h"
+
+1510187002 source:c:\users\usuario\desktop\tp 9-11\listasdobles.c
+	"Estructuras.h"
+
+1510187002 source:c:\users\usuario\desktop\tp 9-11\matriz.c
+	"Estructuras.h"
+
+1510187003 source:c:\users\usuario\desktop\tp 9-11\personas.c
+	"Estructuras.h"
+
+1510187004 source:c:\users\usuario\desktop\tp 9-11\usuarios.c
+	"Estructuras.h"
+
+1510266239 source:c:\users\usuario\desktop\tp 9-11\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510267010 source:c:\users\usuario\desktop\tp 9-11\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1510351504 source:f:\ncarpeta\trabajo practico\nuevo tp\arboles.c
+	"Estructuras.h"
+
+1510700646 f:\ncarpeta\trabajo practico\nuevo tp\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510699026 source:f:\ncarpeta\trabajo practico\nuevo tp\filas.c
+	"Estructuras.h"
+
+1510267164 source:f:\ncarpeta\trabajo practico\nuevo tp\listasdobles.c
+	"Estructuras.h"
+
+1510699366 source:f:\ncarpeta\trabajo practico\nuevo tp\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510267166 source:f:\ncarpeta\trabajo practico\nuevo tp\matriz.c
+	"Estructuras.h"
+
+1510351026 source:f:\ncarpeta\trabajo practico\nuevo tp\personas.c
+	"Estructuras.h"
+
+1510696598 source:f:\ncarpeta\trabajo practico\nuevo tp\usuarios.c
+	"Estructuras.h"
+
+1510267166 source:f:\ncarpeta\trabajo practico\nuevo tp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1510351504 source:d:\ncarpeta\trabajo practico\nuevo tp\arboles.c
+	"Estructuras.h"
+
+1510354630 d:\ncarpeta\trabajo practico\nuevo tp\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510354740 source:d:\ncarpeta\trabajo practico\nuevo tp\filas.c
+	"Estructuras.h"
+
+1510267164 source:d:\ncarpeta\trabajo practico\nuevo tp\listasdobles.c
+	"Estructuras.h"
+
+1510348980 source:d:\ncarpeta\trabajo practico\nuevo tp\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510267166 source:d:\ncarpeta\trabajo practico\nuevo tp\matriz.c
+	"Estructuras.h"
+
+1510267166 source:d:\ncarpeta\trabajo practico\nuevo tp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1510351026 source:d:\ncarpeta\trabajo practico\nuevo tp\personas.c
+	"Estructuras.h"
+
+1510609238 source:d:\ncarpeta\trabajo practico\nuevo tp\usuarios.c
+	"Estructuras.h"
+
+1510351504 source:f:\14-11\arboles.c
+	"Estructuras.h"
+
+1510700668 f:\14-11\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510267166 source:c:\users\usuario\desktop\14-11\matriz.c
+	"Estructuras.h"
+
+1510792450 c:\users\usuario\desktop\14-11\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510793042 source:c:\users\usuario\desktop\14-11\personas.c
+	"Estructuras.h"
+
+1510791377 source:c:\users\usuario\desktop\14-11\arboles.c
+	"Estructuras.h"
+
+1510792814 source:c:\users\usuario\desktop\14-11\filas.c
+	"Estructuras.h"
+
+1510703220 source:c:\users\usuario\desktop\14-11\listasdobles.c
+	"Estructuras.h"
+
+1510792575 source:c:\users\usuario\desktop\14-11\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510792334 source:c:\users\usuario\desktop\14-11\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1510696598 source:c:\users\usuario\desktop\14-11\usuarios.c
+	"Estructuras.h"
+
+1510823723 source:c:\users\win10\desktop\tp final\arboles.c
+	"Estructuras.h"
+
+1510821937 c:\users\win10\desktop\tp final\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510824951 source:c:\users\win10\desktop\tp final\listasdobles.c
+	"Estructuras.h"
+
+1510824797 source:c:\users\win10\desktop\tp final\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510814050 source:c:\users\win10\desktop\tp final\matriz.c
+	"Estructuras.h"
+
+1510814050 source:c:\users\win10\desktop\tp final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1510814050 source:c:\users\win10\desktop\tp final\personas.c
+	"Estructuras.h"
+
+1510824902 source:c:\users\win10\desktop\tp final\usuarios.c
+	"Estructuras.h"
+
+1510825067 source:c:\users\win10\desktop\tp final\filas.c
+	"Estructuras.h"
+
+1510875403 source:c:\users\usuario\desktop\asd\arboles.c
+	"Estructuras.h"
+
+1510876597 c:\users\usuario\desktop\asd\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510874980 source:c:\users\usuario\desktop\asd\listasdobles.c
+	"Estructuras.h"
+
+1510876609 source:c:\users\usuario\desktop\asd\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510874980 source:c:\users\usuario\desktop\asd\matriz.c
+	"Estructuras.h"
+
+1510874980 source:c:\users\usuario\desktop\asd\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1510874980 source:c:\users\usuario\desktop\asd\personas.c
+	"Estructuras.h"
+
+1510879061 source:c:\users\usuario\desktop\asd\usuarios.c
+	"Estructuras.h"
+
+1510877442 source:c:\users\usuario\desktop\asd\filas.c
+	"Estructuras.h"
+
+1510980351 source:c:\users\win10\desktop\sida\arboles.c
+	"Estructuras.h"
+
+1510982792 c:\users\win10\desktop\sida\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510984482 source:c:\users\win10\desktop\sida\filas.c
+	"Estructuras.h"
+
+1510887044 source:c:\users\win10\desktop\sida\listasdobles.c
+	"Estructuras.h"
+
+1510987267 source:c:\users\win10\desktop\sida\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1510887044 source:c:\users\win10\desktop\sida\matriz.c
+	"Estructuras.h"
+
+1510982389 source:c:\users\win10\desktop\sida\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1510983653 source:c:\users\win10\desktop\sida\personas.c
+	"Estructuras.h"
+
+1510898218 source:c:\users\win10\desktop\sida\usuarios.c
+	"Estructuras.h"
+
+1510986439 source:c:\users\win10\desktop\sida\cajas.c
+	"Estructuras.h"
+
+1511285057 source:c:\users\agust\desktop\ultima v\this\arboles.c
+	"Estructuras.h"
+
+1511222994 c:\users\agust\desktop\ultima v\this\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511222994 source:c:\users\agust\desktop\ultima v\this\filas.c
+	"Estructuras.h"
+
+1511144652 source:c:\users\agust\desktop\ultima v\this\listasdobles.c
+	"Estructuras.h"
+
+1511144652 source:c:\users\agust\desktop\ultima v\this\matriz.c
+	"Estructuras.h"
+
+1511232801 source:c:\users\agust\desktop\ultima v\this\personas.c
+	"Estructuras.h"
+
+1511222379 source:c:\users\agust\desktop\ultima v\this\usuarios.c
+	"Estructuras.h"
+
+1511249201 source:c:\users\agust\desktop\ultima v\this\cajas.c
+	"Estructuras.h"
+
+1511247150 source:c:\users\agust\desktop\ultima v\this\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511221836 source:c:\users\agust\desktop\ultima v\this\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1511306491 source:c:\users\usuario\desktop\this\arboles.c
+	"Estructuras.h"
+
+1511222994 c:\users\usuario\desktop\this\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511307458 source:c:\users\usuario\desktop\this\cajas.c
+	"Estructuras.h"
+
+1511302743 source:c:\users\usuario\desktop\this\filas.c
+	"Estructuras.h"
+
+1511306189 source:c:\users\usuario\desktop\this\listasdobles.c
+	"Estructuras.h"
+
+1511309031 source:c:\users\usuario\desktop\this\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511309025 source:c:\users\usuario\desktop\this\matriz.c
+	"Estructuras.h"
+
+1511221836 source:c:\users\usuario\desktop\this\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1511232801 source:c:\users\usuario\desktop\this\personas.c
+	"Estructuras.h"
+
+1511309174 source:c:\users\usuario\desktop\this\usuarios.c
+	"Estructuras.h"
+
+1511306492 source:f:\this\arboles.c
+	"Estructuras.h"
+
+1511324344 f:\this\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511333596 source:f:\this\cajas.c
+	"Estructuras.h"
+
+1511331982 source:f:\this\filas.c
+	"Estructuras.h"
+
+1511331982 source:f:\this\listasdobles.c
+	"Estructuras.h"
+
+1511332850 source:f:\this\main.c
+	"Estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<windows.h>
+
+1511309026 source:f:\this\matriz.c
+	"Estructuras.h"
+
+1511334394 source:f:\this\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1511232802 source:f:\this\personas.c
+	"Estructuras.h"
+
+1511309366 source:f:\this\usuarios.c
+	"Estructuras.h"
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="..\EntregaFinalTP\Estructuras.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4538" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="..\EntregaFinalTP\Filas.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="765" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="..\EntregaFinalTP\cajas.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4516" topLine="224" />
+		</Cursor>
+	</File>
+	<File name="..\EntregaFinalTP\main.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13862" topLine="345" />
+		</Cursor>
+	</File>
+	<File name="..\EntregaFinalTP\matriz.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\EntregaFinalTP\Arboles.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4200" topLine="148" />
+		</Cursor>
+	</File>
+	<File name="..\EntregaFinalTP\MENU.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3309" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\EntregaFinalTP\personas.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5356" topLine="356" />
+		</Cursor>
+	</File>
+	<File name="..\EntregaFinalTP\ListasDobles.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4468" topLine="170" />
+		</Cursor>
+	</File>
+	<File name="..\EntregaFinalTP\usuarios.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11538" topLine="405" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
