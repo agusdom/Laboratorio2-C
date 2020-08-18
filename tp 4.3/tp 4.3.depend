@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513112407 source:c:\users\usuario\desktop\tp 4.3\pilas de listas.c
+	"jistas para pilas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1506191654 c:\users\usuario\desktop\tp 4.3\jistas para pilas.h
+
+1513894361 source:c:\users\usuario\desktop\tp 4.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jistas para pilas.h"
+

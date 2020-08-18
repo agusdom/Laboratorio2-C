@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513893758 source:c:\users\usuario\desktop\tp 4.2 año 2\listas dobles.c
+	"listas dobles.h"
+	<stdio.h>
+	<stdlib.h>
+
+1505741701 c:\users\usuario\desktop\tp 4.2 año 2\listas dobles.h
+
+1513892965 source:c:\users\usuario\desktop\tp 4.2 año 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listas dobles.h"
+
